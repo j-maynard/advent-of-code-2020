@@ -9,5 +9,9 @@ anyone is interested.  My answer are as follows
 | 1b  | python 3 | yes          |
 | 2a  | python 3 | yes          |
 | 2b  | python 3 | yes          |
+| 3a  | python 3 | yes          |
+| 3b  | python 3 | yes          |
+| 4a  | python 3 | yes          |
+| 4b  | python 3 | yes          |
 
 
