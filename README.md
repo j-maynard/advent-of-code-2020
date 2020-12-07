@@ -13,5 +13,8 @@ anyone is interested.  My answer are as follows
 | 3b  | python 3 | yes          |
 | 4a  | python 3 | yes          |
 | 4b  | python 3 | yes          |
-
+| 5a  | python 3 | yes          |
+| 5b  | python 3 | yes          |
+| 6a  | python 3 | yes          |
+| 6b  | python 3 | yes          |
 
