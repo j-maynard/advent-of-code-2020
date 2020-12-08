@@ -19,3 +19,5 @@ anyone is interested.  My answer are as follows
 | 6b  | python 3 | yes          |
 | 7a  | python 3 | yes          |
 | 7b  | python 3 | yes          |
+| 8a  | python 3 | yes          |
+| 8b  | python 3 | yes          |
